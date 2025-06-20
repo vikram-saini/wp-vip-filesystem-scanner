@@ -145,7 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Vikram Saini**
 
-- GitHub: [@vikramsaini](https://github.com/vikramsaini)
+- GitHub: [@vikram-saini](https://github.com/vikram-saini)
 
 ## ⭐ Support
 
