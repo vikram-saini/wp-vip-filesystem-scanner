@@ -35,7 +35,7 @@ The scanner identifies VIP-incompatible functions including:
 
 ```bash
 # Clone the repository
-git clone https://github.com/vikramsaini/wp-vip-filesystem-scanner.git
+git clone https://github.com/vikram-saini/wp-vip-filesystem-scanner.git
 cd wp-vip-filesystem-scanner
 
 # Make the script executable
